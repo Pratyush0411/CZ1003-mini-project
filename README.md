@@ -1,2 +1,13 @@
 # NTU-Canteen
-▪ Developed an interactive GUI for users to check for menu, stall information and operating hours for various canteens and food stalls spread across NTU campus based on date and time; and also allowing users to provide rating and feedback on the various food stalls. ▪ Technology Stack used: Tkinter library in Python.
+
+## Features
+Real-time canteen information system built as an academic project for course CZ1003 at NTU. 
+Display North spine canteen menu and price according to time and date
+Display approximate waiting time at each canteen stall
+## Technology stack
+Different json files are used to store the menu for different stalls 
+json_file.py is used to extract and store the menus as dictionaries
+source_code.py is front-end graphical user interface built using tkinter library in Python
+## Grade recieved
+The grade for the course CZ1003 - A
+
